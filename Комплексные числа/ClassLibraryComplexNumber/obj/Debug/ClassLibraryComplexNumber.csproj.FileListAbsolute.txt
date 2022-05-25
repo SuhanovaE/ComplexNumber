@@ -1,0 +1,6 @@
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ClassLibraryComplexNumber\bin\Debug\ClassLibraryComplexNumber.dll
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ClassLibraryComplexNumber\bin\Debug\ClassLibraryComplexNumber.pdb
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ClassLibraryComplexNumber\obj\Debug\ClassLibraryComplexNumber.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ClassLibraryComplexNumber\obj\Debug\ClassLibraryComplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ClassLibraryComplexNumber\obj\Debug\ClassLibraryComplexNumber.dll
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ClassLibraryComplexNumber\obj\Debug\ClassLibraryComplexNumber.pdb

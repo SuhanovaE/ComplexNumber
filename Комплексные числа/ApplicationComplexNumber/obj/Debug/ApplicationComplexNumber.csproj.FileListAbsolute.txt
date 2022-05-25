@@ -1,0 +1,10 @@
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\bin\Debug\ApplicationComplexNumber.exe.config
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\bin\Debug\ApplicationComplexNumber.exe
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\bin\Debug\ApplicationComplexNumber.pdb
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\obj\Debug\ApplicationComplexNumber.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\obj\Debug\ApplicationComplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\obj\Debug\ApplicationComplexNumber.exe
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\obj\Debug\ApplicationComplexNumber.pdb
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\bin\Debug\ClassLibraryComplexNumber.dll
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\bin\Debug\ClassLibraryComplexNumber.pdb
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\ApplicationComplexNumber\obj\Debug\ApplicationComplexNumber.csproj.CopyComplete
